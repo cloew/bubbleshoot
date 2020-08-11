@@ -1,0 +1,4 @@
+Flask==1.0.2
+git+git://github.com/cloew/proxy-attrs.git
+git+git://github.com/cloew/KaoFlask.git
+cached-property==1.4.3
